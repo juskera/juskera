@@ -8,7 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juskera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-**Connect with me**
 <a href="https://www.linkedin.com/in/juniorantoniops/">
   <img align="left" alt="matjs' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
