@@ -6,7 +6,7 @@
 - 💬 would like to learn: **Python, React and Rust**
 - 📫 How to reach me **juniorantoniops05@gmail.com**
 
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juskera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/juniorantoniops/">
   <img align="left" alt="matjs' LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
