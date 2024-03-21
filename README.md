@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Junior A developer from Brazil!</h1>
 
-**About Me**
+**Sobre mim**
+Cursando Ciencia da computaçao
+Atualmente focando em: Python e React
 
-- 🌱 I’m currently learning: **javascript**
-- 💬 would like to learn: **Python, React and Rust**
-- 📫 How to reach me **juniorantoniops05@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juskera)](https://github.com/anuraghazra/github-readme-stats)
 
